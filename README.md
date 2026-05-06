@@ -29,6 +29,11 @@ ID | Amount | Category | Note        | Date
 2  | 500    | travel   | bus ticket  | 2026-04-25
 ```
 
+## Sample Output
+
+<img width="605" height="1023" alt="image" src="https://github.com/user-attachments/assets/a1486faa-2ac0-4ad8-bf21-2083f1615620" />
+
+
 ## Features
 
 - Add expenses with amount, category, note, and date
